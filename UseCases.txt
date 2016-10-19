@@ -1,0 +1,84 @@
+Use Case Name: Apply for job 
+Priority: 1
+Actor: User
+
+Pre-condition: The user is able to apply for jobs that are available.
+	
+	Step 1: The user selects Apply for Job.
+	Step 2: The user uploads CV stored in the system.
+	Step 3: The user enters a short message with their CV.
+	Step 4: The user confirms the information entered.
+	Step 5: The system confirms that the information has been sent.
+	
+Post-condition: The users CV will be sent to the Job they have applied for.
+
+
+Use Case Name: CV Advice
+Priority: 3
+Actor: User
+
+Pre-condition: The user has the choice to look at tips to get advice on their CV.
+	
+	Step 1: The user selects the CV advice option.
+	Step 2: The system retrievs a list of CV tips for the user.
+	
+Post-condition: The user will have a choice of updating their CV with tips provided.
+
+
+Use Case Name: Career Advice
+Priority: 3
+Actor: User
+
+Pre-condition: The user has the choice to look at advice on their career.
+
+	Step 1: The user selects the career advice option.
+	Step 2: The user selects the type of work he or she would like to receive advice on.
+	Step 3: The system retrieves the top 5 career advice tips for that particular type of work.
+	Step 4: The user has the option to print the information.
+	
+Post-condition: The user will have received career advice regarding their choosen career.
+
+
+Use Case Name: Register User
+Priortiy: 1
+Actor: User
+
+Pre-condition: The user is able to register with the application.
+	
+	Step 1: The user selects the register button.
+	Step 2: The user enter his or her email and password to register.
+	Step 3: The user confirms his or her details.
+	Step 4: The system opens extra details page, first name, last name, county, town,
+			career level(drop down menu), education level(drop down menu).
+	Step 5: The user confirms all these details.
+	Step 4: The system confims the users details have been saved.
+	
+Post-condition: The user has registered with the application.
+
+
+Use Case Name: Login
+Priority: 1
+Actor: User
+
+Pre-condition: The user is able to login into the system with a registered user-name and password.
+
+	Step 1: The user selects the login button.
+	Step 2: The user enters his or her email and password to login.
+	Step 3: The user confirms his or her details.
+	Step 4: The system allows the uesr enter the application.
+	
+Post-condition: The user has logged into the applicatin.
+	
+	
+Use Case Name: Review Companies
+Priority: 4
+Actor: User
+
+Pre-condition: The user has the choice to look at reviews of companies registered with the application.
+	
+	Step 1: The user selects the review company link.
+	Step 2: The system retrieves a list of the companies that the user can review.
+	Step 3: The user selects the company he or she would like to review.
+	Step 4: The system retrieves information on the choosen company.
+	
+Post-condition: The user is giving reviews on companies they wish to review.

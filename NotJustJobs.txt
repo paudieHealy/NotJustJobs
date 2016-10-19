@@ -1,0 +1,12 @@
+NotJustJobs
+
+We decided to create an application that will allow registered users to look for work in their local area or surrounding areas.
+Also registered companies can upload job vacancies to the application for potential employees to view. 
+An added feature to this application is a rental section for users to look for property in the area where they are looking for work.
+
+New users will have the option to use a CV template to post their CV on to the application.
+The user will also be able to get interview advice, career advice, review companies.
+
+Other options in this application are Salary Calculator, search bar, Sponsors and Employers A to Z.  
+
+  
